@@ -8,7 +8,8 @@
   },
   "keywords": [
     "ES6",
-    "domUtils"
+    "Event",
+    "Utilities"
   ],
   "author": "Stefan Ullinger",
   "license": "MIT",
