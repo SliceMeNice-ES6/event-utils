@@ -16,7 +16,7 @@ the function on the leading edge, instead of the trailing.
 ###### Example
 
 ```
-window.addEventListener( 'resize', debounce( onResize, 250 ) );
+window.addEventListener( 'resize', debounce( onResize, 250, false ) );
 ```
 
 ###### Parameters
@@ -27,7 +27,7 @@ the function to be invoked, when the debounce function has stopped being called 
 * _wait_
 is the time to wait before calling the provided function, after the debounce function has stopped being called. If `immediate` is passed, this defines the time between two calls to the given function.
 
-* _immediate_
+* _immediate_ (optional)
 defines whether to trigger the function on the leading edge, instead of the trailing.
 
 ###### Returns
