@@ -1,0 +1,19 @@
+{
+  "name": "@slicemenice/event-utils",
+  "version": "1.0.0",
+  "description": "ECMAScript 6 Event Utilities",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SliceMeNice-ES6/event-utils.git"
+  },
+  "keywords": [
+    "ES6",
+    "domUtils"
+  ],
+  "author": "Stefan Ullinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SliceMeNice-ES6/event-utils/issues"
+  },
+  "homepage": "https://github.com/SliceMeNice-ES6/event-utils"
+}
