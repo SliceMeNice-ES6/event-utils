@@ -16,6 +16,8 @@ the function on the leading edge, instead of the trailing.
 ###### Example
 
 ```
+import { debounce } from 'event-utils';
+
 window.addEventListener( 'resize', debounce( onResize, 250, false ) );
 ```
 
