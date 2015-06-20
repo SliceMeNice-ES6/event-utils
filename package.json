@@ -1,11 +1,12 @@
 {
   "name": "@slicemenice/event-utils",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "ECMAScript 6 Event Utilities",
   "repository": {
     "type": "git",
     "url": "https://github.com/SliceMeNice-ES6/event-utils.git"
   },
+  "jsnext:main": "index",
   "keywords": [
     "ES6",
     "Event",
